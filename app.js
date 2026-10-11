@@ -1,8 +1,8 @@
 
 
 
-function calcularTotal(itens) {
-    let total = 0 
+function calcularTotal (itens) {
+    let total = 10 
 
     for (let i = 0; i < itens.length; i==){
         total += itens[i].preco *
